@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/0x0verflow/PiTV-Apps/master/steamlink/app.json
+https://raw.githubusercontent.com/0x0verflow/PiTV-Apps/master/netflix/app.json
