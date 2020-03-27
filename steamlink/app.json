@@ -1,6 +1,7 @@
 {
   "name": "Steam Link",
   "version": "<3",
+  "icon_path": "apps/steamlink/icon.png",
   "running": {
     "app_type": "binary",
     "app_path": "steamlink",
