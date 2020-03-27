@@ -1,0 +1,12 @@
+{
+  "name": "Netflix",
+  "version": "<3",
+  "running": {
+    "app_type": "html",
+    "app_path": "https://www.netflix.com/"
+  },
+  "settings": {
+    "cursor": true
+  },
+  "license": "None"
+}
