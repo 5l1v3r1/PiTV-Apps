@@ -6,7 +6,7 @@ sudo add-apt-repository ppa:grumbel/ppa
 
 sudo apt update
 
-sudo apt install steamlink
-sudo apt install xboxdrv
+sudo apt install steamlink -y
+sudo apt install xboxdrv -y
 
 echo "Installed"
