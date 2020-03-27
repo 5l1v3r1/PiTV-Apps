@@ -1,6 +1,7 @@
 {
   "name": "Netflix",
   "version": "<3",
+  "icon_path": "apps/netflix/icon.png",
   "running": {
     "app_type": "html",
     "app_path": "https://www.netflix.com/"
