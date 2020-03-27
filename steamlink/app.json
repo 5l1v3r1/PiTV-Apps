@@ -1,0 +1,10 @@
+{
+  "name": "Steam Link",
+  "version": "<3",
+  "running": {
+    "app_type": "binary",
+    "app_path": "steamlink",
+    "install_script": "apps/steamlink/install.sh"
+  },
+  "license": "None"
+}
